@@ -1,6 +1,6 @@
 # Mamelisa here 👋
 
-## Hi there. I am a second-year PhD student who's carzy about transcription factors
+## Hi there. I am a second-year PhD student who's crazy about transcription factors
 
 ## I am trying to unravel rules that underly cell type-specific TF binding activity 
 

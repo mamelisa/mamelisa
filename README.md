@@ -1,13 +1,5 @@
 # Mamelisa here 👋
 
-## Hi there. I am a second-year PhD student who's crazy about transcription factors
-
-## I am trying to unravel rules that underly cell type-specific TF binding activity 
-
-## Affiliation 
-- 🔭 I’m currently working on the University of Zurich
-- Domcke lab
-
 ## Education
 
 | Degree | University | Year |
